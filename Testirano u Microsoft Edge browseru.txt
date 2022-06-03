@@ -1,0 +1,3 @@
+Ovaj projekt je testiran u Microsoft Edge browseru.
+
+-Jan Rudić

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <title>Jan Rudić</title>
+            <link href="http://fonts.googleapis.com/css?family=Raleway:400,200,500,600,700,800,300" rel="stylesheet">
+            <link href="janrudic.css" rel="stylesheet" type="text/css" media="all">
+            
+            </head>
+        <style>
+        table,th,td {
+        border : 1px solid blue;
+        border-collapse: collapse;
+        }
+        th,td {
+        padding: 5px;
+        }
+        </style>
+        <body>
+
+            <div id="heder">
+                <div class="svg-container">
+                    <svg viewbox="0 0 800 400" class="svg">
+                      <path id="curve" fill="#50c6d8" d="M 800 300 Q 400 350 0 300 L 0 0 L 800 0 L 800 300 Z">
+                      </path>
+                    </svg>
+                  </div>
+                
+                  <header>
+                    <h1>CD Shop "Brunkas"</h1>
+                    <h3>Popis CD-a u ponudi</h3>
+                  </header>
+            
+            </div>
+
+            <div class="container">
+                <div class="center">
+                    <button type="button" onclick="loadXMLDoc()">Prikaži popis CD-a</button>
+                </div>
+              </div>
+            
+            <br><br>
+            <table id="tablica"></table>
+
+            <script>
+                function loadXMLDoc() {
+                var xmlhttp = new XMLHttpRequest();
+                xmlhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                    myFunction(this);
+                    }
+                };
+                xmlhttp.open("GET", "podaci.xml", true);
+                xmlhttp.send();
+                }
+                function myFunction(xml) {
+                var i;
+                var xmlDoc = xml.responseXML;
+                var table="<tr><th>Izvođač</th><th>Naslov</th><th>Zemlja</th><th>Diskograf</th><th>Cijena</th><th>Godina</th></tr>";
+                var x = xmlDoc.getElementsByTagName("CD");
+                for (i = 0; i <x.length; i++) { 
+                    table += "<tr><td>" +
+                    x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
+                    "</td><td>" +
+                    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+                    "</td><td>" +
+                    x[i].getElementsByTagName("COUNTRY")[0].childNodes[0].nodeValue +
+                    "</td><td>" +
+                    x[i].getElementsByTagName("COMPANY")[0].childNodes[0].nodeValue +
+                    "</td><td>" +
+                    x[i].getElementsByTagName("PRICE")[0].childNodes[0].nodeValue +
+                    "</td><td>" +
+                    x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue +
+                    "</td></tr>";
+                    
+                }
+                document.getElementById("tablica").innerHTML = table;
+                }
+            </script>
+
+            <footer>
+                <p>Jan Rudić 2022.</p>
+                <small>Tehničko Veleučilište Zagreb</a>.</small>
+            </footer>
+
+        </body>
+    </html>

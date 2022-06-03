@@ -1,0 +1,210 @@
+<CATALOG>
+    <CD>
+        <TITLE>Blood on the Dance Floor</TITLE>
+        <ARTIST>Michael Jackson</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Epic Records</COMPANY>
+        <PRICE>80 Kn</PRICE>
+        <YEAR>1997</YEAR>
+    </CD>
+    <CD>
+        <TITLE>The Life of Pierre 5</TITLE>
+        <ARTIST>Pierre Bourne</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>SossHouse Records</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Twelve Carat Toothache</TITLE>
+        <ARTIST>Post Malone</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Republic Recordsa</COMPANY>
+        <PRICE>95 Kn</PRICE>
+        <YEAR>2022</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Thriller</TITLE>
+        <ARTIST>Michael Jackson</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Epic Records</COMPANY>
+        <PRICE>85 Kn</PRICE>
+        <YEAR>1982</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Big Blunt Theory</TITLE>
+        <ARTIST>Dino Blunt</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Yem</COMPANY>
+        <PRICE>60 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>After Hours</TITLE>
+        <ARTIST>The Weeknd</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Republic Records</COMPANY>
+        <PRICE>90 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Glupi Tejp</TITLE>
+        <ARTIST>KUKU$</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Yem</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Purpose</TITLE>
+        <ARTIST>Justin Bieber</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Def Jam Recordings</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITLE>30</TITLE>
+        <ARTIST>30Zona</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Yem</COMPANY>
+        <PRICE>60 Kn</PRICE>
+        <YEAR>2020</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Eternal Atake</TITLE>
+        <ARTIST>Lil Uzi Vert</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Atlantic</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2020</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Starboy</TITLE>
+        <ARTIST>The Weeknd</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Republic Records</COMPANY>
+        <PRICE>65 Kn</PRICE>
+        <YEAR>2016</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Happier Than Ever</TITLE>
+        <ARTIST>Billie Eilish</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Interscope Records</COMPANY>
+        <PRICE>80 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Die Lit</TITLE>
+        <ARTIST>Playboi Carti</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Interscope Records</COMPANY>
+        <PRICE>60 Kn</PRICE>
+        <YEAR>2018</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Godina Zmije</TITLE>
+        <ARTIST>Buntai</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Yem</COMPANY>
+        <PRICE>50 Kn</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Trip at Knight</TITLE>
+        <ARTIST>Trippie Redd</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>1400 Entertainment</COMPANY>
+        <PRICE>75 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Slime Language 2</TITLE>
+        <ARTIST>Young Stoner Life</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Young Stoner Life Records</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Benbow Crescent</TITLE>
+        <ARTIST>Cochise</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Columbia RecordsIsland</COMPANY>
+        <PRICE>60 Kn</PRICE>
+        <YEAR>2021</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Whole Lotta Red</TITLE>
+        <ARTIST>Playboi Carti</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Interscope Records</COMPANY>
+        <PRICE>80 Kn</PRICE>
+        <YEAR>2020</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Lil Boat 3</TITLE>
+        <ARTIST>Lil Yachty</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Quality Control Music</COMPANY>
+        <PRICE>60 Kn</PRICE>
+        <YEAR>2020</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Hollywood's Bleeding</TITLE>
+        <ARTIST>Post Malone</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Republic Records</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+    <CD>
+        <TITLE>ASTROWORLD</TITLE>
+        <ARTIST>Travis Scott</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Epic Records</COMPANY>
+        <PRICE>65 Kn</PRICE>
+        <YEAR>2018</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Harry Styles</TITLE>
+        <ARTIST>Harry Styles</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Erskine Records</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2017</YEAR>
+    </CD>
+    <CD>
+        <TITLE>2 Alive</TITLE>
+        <ARTIST>Yeat</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Geffen Records</COMPANY>
+        <PRICE>70 Kn</PRICE>
+        <YEAR>2022</YEAR>
+    </CD>
+    <CD>
+        <TITLE>beerbongs &amp; bentleys</TITLE>
+        <ARTIST>Post Malone</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Republic Records</COMPANY>
+        <PRICE>75 Kn</PRICE>
+        <YEAR>2018</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Mandela Effect</TITLE>
+        <ARTIST>Hiljson Mandela</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Metropola</COMPANY>
+        <PRICE>90 Kn</PRICE>
+        <YEAR>2020</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Bangarang</TITLE>
+        <ARTIST>Skrillex</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Big Beat Records</COMPANY>
+        <PRICE>50 Kn</PRICE>
+        <YEAR>2012</YEAR>
+    </CD>
+</CATALOG>
